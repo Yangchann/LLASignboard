@@ -3,7 +3,8 @@
 > **SignboardLayout** is a benchmark dataset designed to advance **scene text layout analysis** by providing **fine-grained semantic annotations and text grouping**. Unlike traditional scene text datasets, which focus only on detection and recognition, our dataset enables structured text extraction in **real-world signboard environments**.  
 
 ## News & Updates  
--  [x] **[14/03/2025] Paper Submitted** – Our dataset has been submitted for review. Stay tuned for updates. 
+-  [x] **[14/03/2025] Paper Submitted** – Our dataset has been submitted for review. Stay tuned for updates.
+-  [x] **[07/06/2025] Paper Accepted** – Our paper has been officially accepted to ICDAR 2025.
 -  [ ] **Dataset Update** – Added new annotations and refined existing labels to improve quality.  
 -  [ ] **New Benchmark Results** – Updated model performance benchmarks on the dataset.  
 
